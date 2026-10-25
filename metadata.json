@@ -1,0 +1,6 @@
+{
+  "name": "TrollTap",
+  "description": "Think. Tap. Get Trolled! A comedy trick-puzzle HTML5 game with 20 handcrafted levels, an animated Troll Meter, comic villain reactions, and YouTube Playables integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
